@@ -1,0 +1,18 @@
+[
+    {
+        "image_id": 0, 
+        "caption": "A chance of drizzle before 10am . Mostly cloudy , with a high near 70 . South wind between 7 and 14 mph . \n"
+    }, 
+    {
+        "image_id": 1, 
+        "caption": "A 40 percent chance of showers . Mostly cloudy , with a high near 44 . East northeast wind between 6 and 9 mph . \n"
+    }, 
+    {
+        "image_id": 2, 
+        "caption": "Flurries . Cloudy , with a low around -20 . Wind chill values as low as -39 . West wind between 5 and 8 mph . \n"
+    }, 
+    {
+        "image_id": 3, 
+        "caption": "Showers and thunderstorms . Low around 53 . Breezy , with a south wind 11 to 14 mph increasing to between 21 and 24 mph . Winds could gust as high as 37 mph . Chance of precipitation is 100 % . \n"
+    }
+]
